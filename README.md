@@ -11,12 +11,12 @@ This contains the 4 graphs created in the project
 This contains the csv file containing the data used in this project.
 ## Steps
 -Load in and transform and scale the data <br>
--Using the elbow method find the best value for k
--Cluster the data based on the best value of k
--Use PCA to go to three features
--Find the best k value for the pca data
--Cluster the pca data from the best k value
--Compare and analyze the data
+-Using the elbow method find the best value for k <br>
+-Cluster the data based on the best value of k <br>
+-Use PCA to go to three features <br>
+-Find the best k value for the pca data <br>
+-Cluster the pca data from the best k value <br>
+-Compare and analyze the data <br>
 ## Results
 The elbow curve graph with the orignal data
 ![Image](CryptoClustering/Graphs/Elbow_Curve.png)
