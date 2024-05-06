@@ -18,11 +18,11 @@ This contains the csv file containing the data used in this project.
 -Cluster the pca data from the best k value <br>
 -Compare and analyze the data <br>
 ## Results
-The elbow curve graph with the orignal data
+### The elbow curve graph with the orignal data
 ![Image](CryptoClustering/Graphs/Elbow_Curve.png)
-The elbow curve graph with pca data
+### The elbow curve graph with pca data
 ![Image](CryptoClustering/Graphs/Elbow_PCA.png)
-Scatter plot with original data and k=4
+### Scatter plot with original data and k=4
 ![Image](CryptoClustering/Graphs/Scatter_k4.png)
-Scatter plot with pca data and k=4
+### Scatter plot with pca data and k=4
 ![Image](CryptoClustering/Graphs/Scatter_PCA.png)
