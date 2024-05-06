@@ -10,7 +10,7 @@ This contains the 4 graphs created in the project
 ### Resources
 This contains the csv file containing the data used in this project.
 ## Steps
--Load in and transform and scale the data
+-Load in and transform and scale the data <br>
 -Using the elbow method find the best value for k
 -Cluster the data based on the best value of k
 -Use PCA to go to three features
